@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#0066CC"               # 按钮、滑动条的主色调（科技蓝）
+backgroundColor="#0E1117"            # 网页整体背景色（深色模式）
+secondaryBackgroundColor="#262730"   # 侧边栏和卡片的背景色
+textColor="#FFFFFF"                  # 文本颜色（白色）
+font="sans serif"                    # 字体风格
